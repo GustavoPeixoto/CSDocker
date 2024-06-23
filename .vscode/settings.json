@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "CsDocker.sln",
+    "editor.formatOnSave": true
+}

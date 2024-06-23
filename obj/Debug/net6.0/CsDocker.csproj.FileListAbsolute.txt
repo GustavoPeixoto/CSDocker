@@ -1,0 +1,15 @@
+/workspaces/CsDocker/bin/Debug/net6.0/CsDocker
+/workspaces/CsDocker/bin/Debug/net6.0/CsDocker.deps.json
+/workspaces/CsDocker/bin/Debug/net6.0/CsDocker.runtimeconfig.json
+/workspaces/CsDocker/bin/Debug/net6.0/CsDocker.dll
+/workspaces/CsDocker/bin/Debug/net6.0/CsDocker.pdb
+/workspaces/CsDocker/obj/Debug/net6.0/CsDocker.csproj.AssemblyReference.cache
+/workspaces/CsDocker/obj/Debug/net6.0/CsDocker.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CsDocker/obj/Debug/net6.0/CsDocker.AssemblyInfoInputs.cache
+/workspaces/CsDocker/obj/Debug/net6.0/CsDocker.AssemblyInfo.cs
+/workspaces/CsDocker/obj/Debug/net6.0/CsDocker.csproj.CoreCompileInputs.cache
+/workspaces/CsDocker/obj/Debug/net6.0/CsDocker.dll
+/workspaces/CsDocker/obj/Debug/net6.0/refint/CsDocker.dll
+/workspaces/CsDocker/obj/Debug/net6.0/CsDocker.pdb
+/workspaces/CsDocker/obj/Debug/net6.0/CsDocker.genruntimeconfig.cache
+/workspaces/CsDocker/obj/Debug/net6.0/ref/CsDocker.dll
