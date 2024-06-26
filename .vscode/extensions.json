@@ -1,6 +1,8 @@
 {
     "recommendations": [
         "mikestead.dotenv",
-        "ms-vscode-remote.remote-containers"
+        "ms-vscode-remote.remote-containers",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig"
     ]
 }
